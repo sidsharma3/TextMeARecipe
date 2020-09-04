@@ -5,6 +5,13 @@ Here is a gif outlining the usage of the application:
 ![](ExampleofApp.gif)
 
 Here is the start page:
+![](https://github.com/sidsharma3/TextMeARecipe/blob/master/Screen%20Shot%202020-09-04%20at%202.53.06%20PM.png)
+
+Here is the update/create page:
+![](https://github.com/sidsharma3/TextMeARecipe/blob/master/Screen%20Shot%202020-09-04%20at%202.45.55%20PM.png)
+
+Here is the confirmation page:
+![](https://github.com/sidsharma3/TextMeARecipe/blob/master/Screen%20Shot%202020-09-04%20at%202.53.18%20PM.png)
 
 To begin create an account on twilio and clone the project and then open the project on any code editor. 
 From here go to TextMeARecipe/myserver/app/models/users.rb in this file fill in the account_sid, auth_token and twilio number from the twilio dashboard and press save.
